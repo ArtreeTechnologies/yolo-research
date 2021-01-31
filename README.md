@@ -10,3 +10,6 @@ Access `http://{EC2 IP}:8888/lab?token={Token}`
 
 ## Yoloで画像認識
 https://qiita.com/daiarg/items/a922c242af9bb76eb470
+```
+$ sh scripts/setup_yolo.sh
+```
